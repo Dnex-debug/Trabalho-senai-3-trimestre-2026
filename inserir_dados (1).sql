@@ -1,4 +1,4 @@
--- Carga inicial (>= 5 registros por tabela), respeitando a ordem das FKs
+
 USE industrial_senai;
 
 INSERT INTO unidades_senai (nome_unidade, cidade) VALUES
