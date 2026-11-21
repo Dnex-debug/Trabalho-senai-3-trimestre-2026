@@ -1,5 +1,3 @@
-
-
 DROP DATABASE IF EXISTS industrial_senai;
 CREATE DATABASE industrial_senai CHARACTER SET utf8mb4;
 USE industrial_senai;
