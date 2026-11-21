@@ -1,6 +1,4 @@
--- Banco de Dados Industrial - SENAI 2026 (MySQL 8.0.16+)
--- Tabelas criadas em ordem de dependencia (pais antes dos filhos).
--- Script gerado com auxilio de IA (ver README.md)
+
 
 DROP DATABASE IF EXISTS industrial_senai;
 CREATE DATABASE industrial_senai CHARACTER SET utf8mb4;
