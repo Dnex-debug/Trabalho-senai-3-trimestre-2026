@@ -1,6 +1,4 @@
-
 USE industrial_senai;
-
 INSERT INTO unidades_senai (nome_unidade, cidade) VALUES
 ('SENAI Roberto Mange', 'Campinas'),
 ('SENAI Suiço-Brasileira', 'São Paulo'),
